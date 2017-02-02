@@ -1,6 +1,6 @@
 #WatchSpring 
 
-The First WatchOS tweak. Need a jailbroken iPhone 5, , jailbroken with Yalu (https://github.com/kpwn/yalu102)
+The First WatchOS tweak. Need a jailbroken iPhone 5,5c,5s,6,6Plus,6s,6sPlus,7,7Plus, on 10.2 and jailbroken with Yalu (https://github.com/kpwn/yalu102)
 
 
 
